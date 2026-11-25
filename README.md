@@ -1,8 +1,8 @@
 # no-deadline-met-entry
 
-[![make.fun](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-no-deadline-met-6adc00ce)
-[![Rank](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce/Dedypol22/no-deadline-met-entry/rank.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-no-deadline-met-6adc00ce)
-[![Reward](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce/Dedypol22/no-deadline-met-entry/reward.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-no-deadline-met-6adc00ce)
+[![make.fun · u-markk-st-one-line-no-deadline-met-6adc00ce](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-no-deadline-met-6adc00ce)
+[![rank](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce/Dedypol22/no-deadline-met-entry/rank.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-no-deadline-met-6adc00ce)
+[![reward](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce/Dedypol22/no-deadline-met-entry/reward.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-no-deadline-met-6adc00ce)
 
 The deadline and I agreed to see other people, so we're taking some space until Friday.
 
